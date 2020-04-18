@@ -1,6 +1,6 @@
 # 基础镜像 WEB Httpd PHP 5.6
 
-- L: Linux alpine
+- L: Linux
 - A: Apache Httpd
 - P: PHP 5.6
 
