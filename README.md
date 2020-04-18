@@ -10,6 +10,11 @@ TODO:
 
 ## Usage
 
+### Conf
+
+- apache /etc/apache2/
+- php /usr/local/etc/php/php.ini
+
 ### ENV
 
 - FLAG=ctfhub{httpd_php_56}
